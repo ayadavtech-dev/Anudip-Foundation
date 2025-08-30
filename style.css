@@ -1,18 +1,19 @@
-    .main-header{
-        padding: 100px;
-     }
-    .header{
-        background-color: red;
-        color: aliceblue;
-        text-align: center;
-        font-family: sans-serif;
-    }
-    h2{
-        color: red;
-    }
-    .headline{
-        height: 50;
-        width: 1350px;
-        margin: 0px;
-        border: 0px;
-    }
+ *{
+            flex: auto;
+        }
+        .Header
+        {
+            background-color: rgb(0, 195, 255);
+            color: white;
+            text-align: center;
+            font-family: sans-serif;
+            margin-top: 15px auto;
+        }
+        h2{
+            font-family: sans-serif;
+        }
+        .footer{
+            background-color: rgb(49, 195, 206);
+            text-align: center;
+            color: white;
+        }
